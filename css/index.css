@@ -66,6 +66,15 @@ p {
     line-height: 1.4;
 }
 
+/* for the header */
+header{
+    width: 800px;
+    margin: 10px auto;
+    display: flex;
+}
+
+/* end header */
+
 .container {
     width: 800px;
     margin: 0 auto;
