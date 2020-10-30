@@ -210,11 +210,21 @@ footer nav a {
 .about-page{
     display:flex;
     flex-wrap: wrap;
-    justify-content:space-between;
+    justify-content:space-around;
+    border-top: 1px dashed grey;
+    border-bottom: 1px dashed grey;
+    margin: 20px auto;
 }
 /* flex items */
 .about-page div{
     width: 45%;
     display:flex;
     flex-direction:column;
+    border-top: 1px dashed grey;
+    border-bottom: 1px dashed grey;
+}
+
+.topAbout{
+    width: 96%;
+    margin: 0 auto;
 }
