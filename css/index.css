@@ -65,11 +65,6 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
-/* universal border */
-*{
-    box-sizing: border-box;
-    /* border: 1px solid gray; */
-}
 /* for the header */
 header{
     width: 800px;
@@ -222,6 +217,11 @@ footer nav a {
     flex-direction:column;
     /* border-top: 1px dashed grey; */
     border-bottom: 1px dashed grey;
+    margin-top: 4%;
+}
+
+.nestBox *{
+    margin-bottom: 4%;
 }
 
 .topAbout{
