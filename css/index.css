@@ -72,9 +72,11 @@ header{
     display: flex;
     justify-content: space-between;
 }
+
 .logo{
     margin-top: 10%;
 }
+
 nav{
     margin: 5% auto;
     width: 80%;
@@ -82,12 +84,11 @@ nav{
     justify-content: space-around;
     font-family: 'Rubik', sans-serif;
 }
+/* end header */
 a{
     text-decoration: none;
     color:black;
 }
-
-/* end header */
 
 .container {
     width: 800px;
@@ -138,30 +139,39 @@ a{
 .middle-content .box.box1{
     background-color: teal;
 }
+
 .middle-content .box.box2{
     background-color: gold;
 }
+
 .middle-content .box.box3{
     background-color: cadetblue;
 }
+
 .middle-content .box.box4{
     background-color: coral;
 }
+
 .middle-content .box.box5{
     background-color: crimson;
 }
+
 .middle-content .box.box6{
     background-color: forestgreen;
 }
+
 .middle-content .box.box7{
     background-color: darkorchid;
 }
+
 .middle-content .box.box8{
     background-color: hotpink;
 }
+
 .middle-content .box.box9{
     background-color: indigo;
 }
+
 .middle-content .box.box0{
     background-color: dodgerblue;
 }
@@ -237,6 +247,7 @@ footer nav a {
     width: 31%;
     text-align: center;
 }
+
 .bottomAbout{
     margin-bottom: 3%;
 }
