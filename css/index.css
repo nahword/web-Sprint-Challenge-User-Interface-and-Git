@@ -206,3 +206,15 @@ footer nav a {
     text-decoration: none;
 }
 /* about page style */
+/* flex container */
+.about-page{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+/* flex items */
+.about-page div{
+    width: 45%;
+    display:flex;
+    flex-direction:column;
+}
