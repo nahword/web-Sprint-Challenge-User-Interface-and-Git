@@ -72,8 +72,8 @@ header{
     display: flex;
     justify-content: space-between;
 }
-div img{
-    max-width: 100%;
+.logo{
+    margin-top: 10%;
 }
 nav{
     margin: 5% auto;
@@ -237,6 +237,6 @@ footer nav a {
     width: 31%;
     text-align: center;
 }
-.bottom{
+.bottomAbout{
     margin-bottom: 3%;
 }
