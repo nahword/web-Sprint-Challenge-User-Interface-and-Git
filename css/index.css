@@ -73,8 +73,11 @@ header{
     display: flex;
     justify-content: space-between;
 }
+div img{
+    margin-top: 10%;
+}
 nav{
-    margin-top: 5%;
+    margin: 5% auto;
     width: 80%;
     display: flex;
     justify-content: space-around;
@@ -84,7 +87,13 @@ a{
     text-decoration: none;
     color:black;
 }
+
 /* end header */
+/* hero image */
+.hero{
+
+}
+/* end hero image */
 
 .container {
     width: 800px;
