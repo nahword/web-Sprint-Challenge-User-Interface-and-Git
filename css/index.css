@@ -141,34 +141,34 @@ a{
 }
 /* colored boxes */
 .middle-content .box.box1{
-    background-color: red;
+    background-color: teal;
 }
 .middle-content .box.box2{
-    background-color: orange;
+    background-color: gold;
 }
 .middle-content .box.box3{
-    background-color: yellow;
+    background-color: cadetblue;
 }
 .middle-content .box.box4{
-    background-color: green;
+    background-color: coral;
 }
 .middle-content .box.box5{
-    background-color: blue;
+    background-color: crimson;
 }
 .middle-content .box.box6{
-    background-color: indigo;
+    background-color: forestgreen;
 }
 .middle-content .box.box7{
-    background-color: violet;
+    background-color: darkorchid;
 }
 .middle-content .box.box8{
-    background-color: orangered;
+    background-color: hotpink;
 }
 .middle-content .box.box9{
-    background-color: yellowgreen;
+    background-color: indigo;
 }
 .middle-content .box.box0{
-    background-color: blueviolet;
+    background-color: dodgerblue;
 }
 
 .bottom-content {
